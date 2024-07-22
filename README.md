@@ -81,6 +81,7 @@ Ensure you have the following installed on your system:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 
+![frontend_1](https://github.com/user-attachments/assets/01307517-9cef-420c-8594-e65c705904fb)
 
 
 
