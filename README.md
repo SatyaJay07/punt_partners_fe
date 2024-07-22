@@ -1,5 +1,5 @@
-## Frontend Deployed Link: https://punt-partner-text-translator-deepak-y.netlify.app/
-### Project Presentation Video Link:  https://www.loom.com/share/55ea11acb6354d6093eb84dc3ec61bb5
+## Frontend Deployed Link: 
+### Project Presentation Video Link:  
 
 
 # Text Translator Application
