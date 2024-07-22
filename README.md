@@ -1,5 +1,5 @@
-## Frontend Deployed Link: 
-### Project Presentation Video Link:  
+## Deployment Link : https://punt-partners-fe.vercel.app/
+
 
 
 # Text Translator Application
@@ -16,14 +16,12 @@
 
 ## Introduction
 
-The Text Translator application allows users to translate text between various languages using a simple and intuitive interface. This app also supports speech recognition and text-to-speech functionalities, enhancing user interaction and accessibility.
+The Text Translator application allows users to translate text between various languages using a simple and intuitive interface. This app supports text-to-speech functionalities, enhancing user interaction and accessibility.
 
 ## Features
 
 - Translate text between multiple languages.
-- Speech recognition to input text via microphone.
 - Text-to-speech to listen to both input and translated text.
-- Swap functionality to exchange source and target languages and texts.
 - Clipboard copy functionality for both input and translated text.
 
 ## Technologies Used
@@ -36,6 +34,7 @@ The Text Translator application allows users to translate text between various l
 - **API:** LibreTranslate API for language translation
 
 ## Setup and Installation
+clone the repository using git clone and install modules using npm i followed by npm run dev.  ( Vite not used )
 
 ### Prerequisites
 
@@ -44,30 +43,6 @@ Ensure you have the following installed on your system:
 - Node.js (>=14.x)
 - npm (>=6.x)
 
-### Installation Steps
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/Deepak-25yadav/text-translator-fe.git
-    cd text-translator
-    ```
-
-2. **Install the dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3. **Start the application:**
-
-    ```bash
-    npm start
-    ```
-
-4. **Open the application:**
-
-    Open your browser and navigate to `http://localhost:3000` to see the application in action.
 
 ## Usage
 
@@ -78,7 +53,6 @@ Ensure you have the following installed on your system:
 2. **Input Text:**
 
     - **Manual Input:** Enter text in the input textarea.
-    - **Speech Input:** Click the microphone icon to start speech recognition and speak the text you want to translate.
 
 3. **Translate Text:**
 
@@ -92,36 +66,21 @@ Ensure you have the following installed on your system:
 
     Click the copy icon to copy the text to the clipboard.
 
-6. **Swap Languages:**
 
-    Click the "Swap" button to exchange the input and translated texts and their respective languages.
-
-7. **Clear Text:**
+6. **Clear Text:**
 
     Click the "Clear Text" button to clear the translated text.
 
-8. **Reset Text:**
+7. **Reset Text:**
 
     Click the "Reset Text" button to clear the input text and reset the speech recognition transcript.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements, feel free to open an issue or submit a pull request. Please follow the established code style and include tests for any new features or bug fixes.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-![pp-1](https://github.com/Deepak-25yadav/text-translator-fe/assets/112754831/3a940344-658b-4137-9f2d-7ef5888d5863)
 
-![pp-2](https://github.com/Deepak-25yadav/text-translator-fe/assets/112754831/77a9650c-9cc0-43e4-8bde-8ad46480dfa0)
-
-![pp-3](https://github.com/Deepak-25yadav/text-translator-fe/assets/112754831/9ef7b725-b9c4-4991-b6de-93bf04e8a2f7)
-
-![pp-4](https://github.com/Deepak-25yadav/text-translator-fe/assets/112754831/b61b0724-e707-4385-a0ec-7fc7bd723889)
-![pp-5](https://github.com/Deepak-25yadav/text-translator-fe/assets/112754831/a07c7307-22ca-40e7-8644-432ce3992e6b)
-
-![pp-6](https://github.com/Deepak-25yadav/text-translator-fe/assets/112754831/0b2bd075-1303-4515-96aa-da40e3a2ff4e)
 
 
 
